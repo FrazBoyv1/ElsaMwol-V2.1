@@ -3,16 +3,16 @@
 
   <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwolV2.1+WA+Bot+repo;Created+by+Jihad+Ser;This+is+the+Best++Bgm+bot;With+more+features)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+FrazBoyV2.1+WA+Bot+repo;Created+by+fraz+boy;This+is+the+Best++Bgm+bot;With+more+features)
 
-<a href="#"><img title="ElsaMwolV2.1" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
+<a href="#"><img title="FZzia.1" src="https://img.shields.io/badge/-zia%20Mowl v2.1-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-   Project created by <a href="https://github.com/J-I-H-A-D">J-I-H-A-D</a> to make it public
+   Project created by <a href="https://github.com/FrazBoyv1">fraz</a> to make it public
     <br>
        Â© Reserved 
     <br>
@@ -21,8 +21,8 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/J-I-H-A-D/ElsaMwolV2-1">
-    <img src="https://img.shields.io/github/repo-size/J-I-H-A-D/ElsaMwolV2-1?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/FrazBoyv1/ziaMwolV2-1">
+    <img src="https://img.shields.io/github/repo-size/FrazBoyv1/ziaMwolV2-1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/J-I-H-A-D/followers"><img title="Followers" src="https://img.shields.io/github/followers/J-I-H-A-D?color=blue&style=flat-square"></a>
 <a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/J-I-H-A-D/ElsaMwolV2-1?color=blue&style=flat-square"></a>
@@ -34,7 +34,7 @@
                                                 Subscriber My Channel More Updates Coming Soon..
 
 <p align="center">
-<a href="https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ"><img title="Author" src="https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg" width="300" height="300""></a>
+<a href="https://youtube.com/c/Epic123"><img title="Author" src="https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg" width="300" height="300""></a>
 </p>
 
 
@@ -43,7 +43,7 @@
 Click WA logo for Support ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G0BrTf7gVURBxPO1FSFxKc)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FxmjVYxSXPl0C7jfD26tRF)
   <div align="center">
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-I-H-A-D&repo=ElsaMwolV2.1&theme=nightowl)](https://github.com/J-I-H-A-D/ElsaMwol-V2.1)
@@ -54,7 +54,7 @@ Click WA logo for Support ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@FrazBoyv1/ElsaMwol)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jihad3321/ElsaMwol-V2.1)
      </div>
@@ -74,7 +74,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwolV2.1
+$ git clone https://github.com/FrazBoyv1/ElsaMwolV2.1
 $ cd ElsaMwolV2.1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
